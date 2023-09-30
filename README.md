@@ -1,18 +1,15 @@
-### Hi there 👋
+# Welcome to my GitHub account! 👋
+
+## About Me
+I am a Computer Engineering student at the University of Palermo (Universidad de Palermo) and Software Developer with experience in design, development and testing of web applications from back-end to front-end.
+
+## Social
+[![Static Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bautista-vicens/) [![Static Badge](https://img.shields.io/badge/Portfolio-gray?style=for-the-badge&logo=readdotcv&logoColor=white)](https://portfolio-bautistavicens.vercel.app/)
+
+## GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bautistavicens&show_icons=true&bg_color=00000000)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bautistavicens&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bautistavicens)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**bautistavicens/bautistavicens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
